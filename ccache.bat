@@ -1,8 +1,8 @@
 @echo off
 
-Rem Clear Catche by Vishnu
+Rem Clear Cache by Vishnu
 
-title Clear Catche
+title Clear Cache
 cls
 
 echo.
@@ -32,7 +32,7 @@ rmdir /s /q C:\Windows\SoftwareDistribution\Download\
 echo.
 echo ===========================================================================
 echo.
-echo [ NVIDIA CATCHE ]
+echo [ NVIDIA CACHE ]
 echo.
 
 del /s /f /q C:\ProgramData\NVIDIA\*.*
