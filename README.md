@@ -2,7 +2,7 @@
 Clear Windows cache bat script file.
 - Run the bat file as Administrator
 
-# What it Cleans?🧹
+# What it Cleans?🧹✨
 - Temp files
 - %temp% files
 - Prefetch files
