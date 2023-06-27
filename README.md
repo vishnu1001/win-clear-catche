@@ -1,4 +1,4 @@
-# win-clear-cache
+# Windows Clear Catche Batch File
 Clear all Windows Cache
 - Run the .bat file as Administrator
 
